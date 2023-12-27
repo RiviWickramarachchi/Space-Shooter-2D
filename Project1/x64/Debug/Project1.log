@@ -1,0 +1,37 @@
+﻿  entity.cpp
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\components.h(87,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\entity.cpp(13,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  entityManager.cpp
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\components.h(87,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  game.cpp
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\components.h(87,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\game.cpp(62,64): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\game.cpp(62,46): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\game.cpp(128,77): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\game.cpp(128,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\game.cpp(179,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\game.cpp(180,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\game.cpp(196,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\game.cpp(197,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\game.cpp(203,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\game.cpp(294,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\Project1\components.h(87,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> D:\C++ Projects\SFML_MiniGame\Space-Shooter-2D\x64\Debug\SpaceShooter.exe
